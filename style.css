@@ -1,0 +1,46 @@
+header {
+	background-color: #2F4172;
+	color: #D6D8DD
+}
+.navbar {
+	background-color: #822926 !important;
+}
+
+.nav-link, .navbar-brand {
+	color: #fff;
+}
+
+.nav-link:hover {
+	color: gold;
+}
+
+.logoImg {
+	width: 200px;
+}
+
+.logoDiv {
+	text-align: center;
+}
+
+/* table */
+table, td, th {
+	border: 0px solid #cccccc;
+	border-spacing: 0;
+}
+
+table {
+	width: 100%;
+}
+
+th {
+	font-family: Tahoma, sans-serif;
+	background-color #822926;
+}
+
+td {
+	font-family: Georgia, serif;
+}
+
+th, td {
+	padding: 10px 30px;
+}
